@@ -1,2 +1,2 @@
-- 프로에게 묻다 (자바스크립트의 세계)
-http://techneedle.com/archives/30164
+ - 자바스크립트의 세계
+ - http://techneedle.com/archives/30164
