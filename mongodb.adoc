@@ -14,6 +14,9 @@
 * https://github.com/spring-projects/spring-data-examples/tree/master/mongodb/reactive
 
 다 써봤는데..
+
 << ReactiveMongoTemplate reactiveMongoTemplate = new ReactiveTemplate(MongoClient, "dbname"); >>
+
 이것이 ReactiveCrudRepository 보다 insert에서 훨씬 좋은 성능을 보여준다. ( 자세히 알아보기 )
+
 대량의 데이터의 경우 만드는 작업을 Flux로 처리하고, insertAll로 한번에 Collection을 저장하는 것은 매우 매우 성능이 빠르다.
