@@ -1,3 +1,6 @@
 === 레디스 자습서
 * http://www.w3big.com/ko/redis/default.html
 * http://www.redisgate.com/redis/command/set.php
+
+=== 레디스 데스크톱 매니저 
+* https://github.com/uglide/RedisDesktopManager/releases
