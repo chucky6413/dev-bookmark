@@ -1,4 +1,11 @@
 === 기초 설명
 * https://kr.vuejs.org/v2/guide
 * https://github.com/stepanowon/vuejs_book  ( 쉽고 빠르게 배우는 vue.js 예제 )(완독)
-=== 반응형에 
+
+=== 반응형에 대해 깊이 알아보기 ( getter, setter, Observer )
+* http://beomy.tistory.com/14
+* https://vuejs-kr.github.io/jekyll/update/2017/01/21/how-vue-add-observer-getter-setter/
+* https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+* https://skyronic.com/blog/vuejs-internals-computed-properties
+
+
