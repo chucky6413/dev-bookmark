@@ -1,5 +1,5 @@
 === 스프링 기본 강좌(1) ~ (14)
-* http://ooz.co.kr/170?category=818548 [1]
+* http://ooz.co.kr/170?category=818548[1]
 * http://ooz.co.kr/175?category=818548 [2]
 * http://ooz.co.kr/178?category=818548 [3]
 * http://ooz.co.kr/193?category=818548 [4]
