@@ -1,2 +1,0 @@
-=== interceptor, filter 차이점 + spring mvc lifecycle
-* http://changpd.blogspot.kr/2013/03/spring.html
