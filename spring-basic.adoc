@@ -13,7 +13,7 @@
 * http://ooz.co.kr/223?category=818548 [12]
 * http://ooz.co.kr/224?category=818548 [13]
 * http://ooz.co.kr/225?category=818548 [14]
-* http://ooz.co.kr/226?category=818548 [15) MVC 프로세스]
+* http://ooz.co.kr/226?category=818548[15) MVC 프로세스]
 
 === interceptor, filter 차이점 + spring mvc lifecycle
 * http://changpd.blogspot.kr/2013/03/spring.html
