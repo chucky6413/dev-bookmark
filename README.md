@@ -1,2 +1,2 @@
 # devnote
-이준우님의 개발 공부
+Junwoo's development notebook
