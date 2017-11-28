@@ -3,3 +3,7 @@
 
 === Git flow
 * https://guides.github.com/introduction/flow/
+
+=== 기타
+* https://blog.outsider.ne.kr/820[push 하지 않은 commit 확인]
+* https://tuwlab.com/ece/22223[commit 무력화 하기]
