@@ -7,3 +7,4 @@
 === 기타
 * https://blog.outsider.ne.kr/820[push 하지 않은 commit 확인]
 * https://tuwlab.com/ece/22223[commit 무력화 하기]
+* https://www.garron.me/en/bits/undo-git-add-before-commit.html[commit하기 전의 add ]
