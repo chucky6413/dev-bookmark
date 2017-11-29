@@ -12,3 +12,6 @@
 커맨드 + O => 클래스 파일만 찾는 것
 
 커맨드 + 쉬프트 + F => Find path ( 전체 검색하는 것 )
+
+=== Mac OS Jdk 설정
+* https://stackoverflow.com/questions/31215452/intellij-idea-importing-gradle-project-getting-java-home-not-defined-yet
