@@ -1,0 +1,2 @@
+* [JAVA] serialVersionUID 이란? Warning 해결하기
+** http://hyeonstorage.tistory.com/253
