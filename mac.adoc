@@ -4,4 +4,5 @@
 * https://gist.github.com/KennethanCeyer/55a3a53223b9d7986971
 
 # 터미널 초보의 oh-my-zsh
+
 * https://nolboo.kim/blog/2015/08/21/oh-my-zsh/
