@@ -1,3 +1,4 @@
 # mac alias 설정
+
 * http://ithub.tistory.com/50
 * https://gist.github.com/KennethanCeyer/55a3a53223b9d7986971
