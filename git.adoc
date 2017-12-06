@@ -3,6 +3,7 @@
 
 === Git flow
 * https://guides.github.com/introduction/flow/
+* https://gist.github.com/ihoneymon/a28138ee5309c73e94f9
 
 === 기타
 * https://blog.outsider.ne.kr/820[push 하지 않은 commit 확인]
