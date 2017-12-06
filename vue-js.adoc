@@ -10,4 +10,4 @@
 * https://skyronic.com/blog/vuejs-internals-computed-properties
 
 === bootstrap-vue
-* https://bootstrap-vue.js.org/docs/components/table#row-details-support
+* https://bootstrap-vue.js.org/docs
