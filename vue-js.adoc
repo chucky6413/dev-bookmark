@@ -9,4 +9,5 @@
 * https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
 * https://skyronic.com/blog/vuejs-internals-computed-properties
 
-
+=== bootstrap-vue
+* https://bootstrap-vue.js.org/docs/components/table#row-details-support
