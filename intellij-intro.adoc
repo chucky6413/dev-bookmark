@@ -17,6 +17,8 @@
 
 커맨드 + F10 => Update 프로젝트
 
+옵션 + F12 => 터미널 열기
+
 === Mac OS Jdk 설정
 * https://stackoverflow.com/questions/31215452/intellij-idea-importing-gradle-project-getting-java-home-not-defined-yet
 
