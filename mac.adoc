@@ -7,3 +7,7 @@
 
 * https://nolboo.kim/blog/2015/08/21/oh-my-zsh/
 * https://github.com/robbyrussell/oh-my-zsh/wiki/External-themes
+
+# 사용중 포트 찾아서 kill
+* lsof -i :8080
+* kill -9 PID
