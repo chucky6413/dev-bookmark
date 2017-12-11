@@ -12,5 +12,5 @@
 === bootstrap-vue
 * https://bootstrap-vue.js.org/docs
 
-=== vue-class-component (17.12.11)
+=== vue-class-component
 * https://github.com/vuejs/vue-class-component
