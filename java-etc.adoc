@@ -2,4 +2,4 @@
 ** http://hyeonstorage.tistory.com/253
 
 * EffectiveJava
-** 3장 중 궁금했던 것. http://egloos.zum.com/iilii/v/4022941
+** 3장 중 궁금했던 것(clone). http://egloos.zum.com/iilii/v/4022941
