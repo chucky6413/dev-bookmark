@@ -1,0 +1,4 @@
+# 그런 Rest API 괜찮은가 (이응준님)
+
+* https://deview.kr/2017/schedule/212 데뷰 내용(발표 자료, 발표 영상)
+* http://slides.com/eungjun/rest#/ (발표 자료)
