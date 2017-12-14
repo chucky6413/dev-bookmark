@@ -24,8 +24,8 @@
 === Mac OS Jdk 설정
 * https://stackoverflow.com/questions/31215452/intellij-idea-importing-gradle-project-getting-java-home-not-defined-yet
 
-=== 기타
-* https://intellij-support.jetbrains.com/hc/en-us/community/posts/207000815-How-do-I-enable-support-for-ECMA-6-[ES6 지원 설정]
-
 === 디버깅
 * http://jojoldu.tistory.com/149
+
+=== 기타
+* https://intellij-support.jetbrains.com/hc/en-us/community/posts/207000815-How-do-I-enable-support-for-ECMA-6-[ES6 지원 설정]
