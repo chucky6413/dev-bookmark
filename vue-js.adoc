@@ -11,6 +11,7 @@
 
 === bootstrap-vue
 * https://bootstrap-vue.js.org/docs
+* https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f[2018년에 당신이 알아야 할 vue 라이브러리]
 
 === vue-class-component
 * https://github.com/vuejs/vue-class-component
