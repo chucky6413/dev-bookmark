@@ -28,4 +28,4 @@
 * http://jojoldu.tistory.com/149
 
 # 기타
-* https://intellij-support.jetbrains.com/hc/en-us/community/posts/207000815-How-do-I-enable-support-for-ECMA-6-[ES6 지원 설정]
+* [ES6 지원 설정](https://intellij-support.jetbrains.com/hc/en-us/community/posts/207000815-How-do-I-enable-support-for-ECMA-6-)
