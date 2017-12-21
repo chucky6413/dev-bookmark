@@ -11,3 +11,6 @@
 # 사용중 포트 찾아서 kill
 * lsof -i :8080
 * kill -9 PID
+
+# brew
+* https://gist.github.com/ntamvl/5f4dbaa8f68e6897b99682a395a44c2e[install java]
