@@ -20,3 +20,6 @@
 
 === 스프링 특징 요약
 * http://loveiskey.tistory.com/111
+
+=== 스프링 batch
+* http://springsource.tistory.com/79
