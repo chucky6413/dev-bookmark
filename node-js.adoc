@@ -1,3 +1,9 @@
 # node.js 비동기 프로그래밍 이해
 
 * http://www.nextree.co.kr/p7292/
+
+# es6
+
+* node.js에 es6 적용 https://hanjungv.github.io/2017-09-20-1_NODE_babel/
+
+* https://enyobook.wordpress.com/2016/08/17/export-default%EC%97%90-%EB%8C%80%ED%95%B4/[export default]
