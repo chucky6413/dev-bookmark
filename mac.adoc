@@ -14,3 +14,6 @@
 
 # brew
 * https://gist.github.com/ntamvl/5f4dbaa8f68e6897b99682a395a44c2e[install java]
+
+# iterm2
+* 단축키 http://ourcstory.tistory.com/170
