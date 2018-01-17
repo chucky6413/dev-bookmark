@@ -23,3 +23,6 @@
 
 === 스프링 batch
 * http://springsource.tistory.com/79
+
+=== 잡동사니
+* http://doublesprogramming.tistory.com/105[Controller VS RestController 차이]
