@@ -15,3 +15,6 @@
 
 === vue-class-component
 * https://github.com/vuejs/vue-class-component
+
+=== nuxt.js
+* https://ko.nuxtjs.org/guide
