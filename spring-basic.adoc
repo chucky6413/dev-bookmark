@@ -29,3 +29,6 @@
 
 === spring boot + vue.js
 * https://github.com/boylegu/SpringBoot-vue
+
+=== AOP
+* http://addio3305.tistory.com/86
