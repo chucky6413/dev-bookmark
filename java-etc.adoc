@@ -3,3 +3,7 @@
 
 * EffectiveJava
 ** 3장 중 궁금했던 것(clone). http://egloos.zum.com/iilii/v/4022941
+
+* Reflection
+** https://brunch.co.kr/@kd4/8
+** http://gyrfalcon.tistory.com/entry/Java-Reflection
