@@ -32,5 +32,4 @@
 
 === AOP
 * http://addio3305.tistory.com/86
-#### custom annotation aop
-* http://marobiana.tistory.com/54
+* http://marobiana.tistory.com/54[custom annotation aop]
