@@ -26,6 +26,7 @@
 
 === 잡동사니
 * http://doublesprogramming.tistory.com/105[Controller VS RestController 차이]
+* http://kwonnam.pe.kr/wiki/java/log4j/xml[log4j xml 설정]
 
 === spring boot + vue.js
 * https://github.com/boylegu/SpringBoot-vue
