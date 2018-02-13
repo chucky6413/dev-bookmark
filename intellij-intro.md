@@ -21,6 +21,8 @@
 
 커맨드 + R => replace (match, regex, etc ... )
 
+커맨드 + / => 주석, 해제
+
 # Mac OS Jdk 설정
 * https://stackoverflow.com/questions/31215452/intellij-idea-importing-gradle-project-getting-java-home-not-defined-yet
 
