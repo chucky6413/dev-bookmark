@@ -2,3 +2,7 @@
 
 * https://deview.kr/2017/schedule/212 데뷰 내용(발표 자료, 발표 영상)
 * http://slides.com/eungjun/rest#/ (발표 자료)
+
+# put vs post
+
+* http://1ambda.github.io/javascripts/rest-api-put-vs-post/
