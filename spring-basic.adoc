@@ -37,4 +37,5 @@
 * http://marobiana.tistory.com/54[custom annotation aop]
 * https://blog.outsider.ne.kr/845
 
-http://springsource.tistory.com/13
+=== @Controller 파라미터 종류
+* http://springsource.tistory.com/13
