@@ -16,3 +16,5 @@
 * [git branch 이름 변경하기](https://thdev.tech/git/2016/12/19/Git-Branch-Name-Change.html)
 
 * [모음집](https://github.com/mingrammer/git-tips/blob/master/README.md)
+
+* git checkout -b commitId
