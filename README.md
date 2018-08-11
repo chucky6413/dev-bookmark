@@ -1,2 +1,1 @@
-# devnote
-link storage
+# development-links
