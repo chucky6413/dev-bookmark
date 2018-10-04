@@ -13,6 +13,7 @@
 * https://git-scm.com/book/ko/v1/Git-도구-히스토리-단장하기 (git rebase 커밋 수정하기)
 
 * [수정한 것 되돌리기](http://hochulshin.com/git-revert-changes/)
+  * http://ecogeo.tistory.com/276
 * [git branch 이름 변경하기](https://thdev.tech/git/2016/12/19/Git-Branch-Name-Change.html)
 
 * [모음집](https://github.com/mingrammer/git-tips/blob/master/README.md)
